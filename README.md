@@ -1,32 +1,49 @@
-<div align="center">
-<div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div>
+  <p align="center"><a href="https://github.com/elsaedelbarshly"><img width="80%" alt="Hello, I'm Elsaed. A full stack web developer" src="./assets/gh-readme-header.png" /></a></p>
+  <div align=center>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  </div>
+  <br>
+  <div align=center>
+      <a href="https://www.linkedin.com/in/elsaid-elbarshly/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+      <a href="mailto:eelbarshly@gmail.com"><img src="https://img.shields.io/badge/Email-My%20Email%20Address-orange" alt="My Email Account" /></a>
+  </div>
+  <h3 align="center">
+    Welcome to Elsaed Elbarshly's profile :wave::tada:
+  </h3>
+  <div align=left>
+      <br>
+      <p>
+          <strong>
+              Full Stack Web Developer with a passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Also has the proven ability to motivate, educate, and collaborate effectively to build web applications and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.<br><br>
+              Well-versed in software tools including Laravel, PHP, MySQL, Bootstrap, JQuery, JavaScript, AJAX, OOP, HTML and CSS. Skilled at reading and writing code . Great ability to build and optimize database design, schema and queries . Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term . Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function.. Fast and eager learner for new technologies . 
+          </strong>
+      </p>
+  </div>
+  <div align=center>
+      <h1>Contribution Activity</h1>
+      <img src="https://github-readme-stats.vercel.app/api?username=engsahaly&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=engsahaly&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
+      <br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=engsahaly&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+      <br>
+      <br>
+  </div>
 </div>
-  <div id="badges">
-<a href="https://www.linkedin.com/in/elsaid-elbarshly/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:eelbarshly@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
-</a>
-<!--  <a href="https://flowcv.me/mo-yassien"target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ayman" />
- </a> -->
-</div>
-### Hi there :wave::tada:
-<h3 align="center">
-  Welcome to Elsaed Elbarshly's profile!
-</h3>
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mid_Level+Flutter+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=208D35FF&vCenter=true&size=22"></a>
- As a Mid-Level Flutter Developer, I work with a team of talented engineers to create cross-platform mobile applications using Flutter and Dart. I have contributed to multiple projects that have reached thousands of users and received positive feedback.
-I have a Bachelor's degree in Computer Science from Mansoura University, where I learned the fundamentals of programming, data structures, algorithms, and software engineering. I also completed a short course on Android Development with Java at the Information Technology Institute (ITI) in 2019, where I gained hands-on experience in building native Android apps. I have also earned several certifications in Flutter, such as Flutter Payment Integration, Flutter Clean Architecture, and The Complete 2022 Flutter & Dart Development Course, to keep up with the latest trends and best practices in the field.
-I am passionate about mobile software engineering and constantly looking for opportunities to enhance my skill set and take on new challenges. I have a strong commitment to personal and professional growth, and I constantly push boundaries to deliver innovative solutions. I am also dedicated to hard work and relentless pursuit of knowledge, and I value collaboration, communication, and feedback in my work. My goal is to create user-friendly, performant, and secure mobile applications that solve real-world problems and add value to users and clients.
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-yassien&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-yassien" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-yassien" alt="mohamed-yassien" /></a> </p>
-- :seedling: I’m currently learning **Advanced Flutter Tutorials**
-- :page_facing_up: Know about my experiences [https://drive.google.com/file/d/1Gr0EAxfFlxcSm-1z1uXP93Ke_fBM9K5S/view?usp=drive_link](https://drive.google.com/file/d/1Gr0EAxfFlxcSm-1z1uXP93Ke_fBM9K5S/view?usp=drive_link)
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-yassien&show_icons=true&locale=en&layout=compact" alt="mohamed-yassien" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-yassien&show_icons=true&locale=en" alt="mohamed-yassien" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-yassien&" alt="mohamed-yassien" /></p>
+<p align="left"> 
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40" /> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>    
+</p>
+
